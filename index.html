@@ -19,7 +19,8 @@
                 <tr>
                     <td colspan="2"><input type="button" class="style" value="Clear" id="clear" onclick="calculator.answers.value =' '"></td>
                     
-                    <td><input type="button" class="style" value="9" onclick="calculator.answers.value +='9'"></td>
+                    <td><input type="button" class="style" value="<" onClick="document.calculator.answers.value =
+                        document.calculator.answers.value.substring(0,document.calculator.answers.value.length*1 -1)"></td>
                     <td><input type="button" class="style" value="%" onclick="calculator.answers.value +='%'"></td>
                 </tr>
                 <tr>
