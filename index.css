@@ -1,10 +1,13 @@
 body{
-    background:radial-gradient(rgb(5, 227, 235),rgb(223, 6, 212));
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTekEkp3gJ413fFwKShXc6J0EcjjAbrCvE7bw&usqp=CAU);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
    
 }
 
 .div-calculator{
-   background:radial-gradient(rgb(221, 212, 206),rgb(140, 245, 248),rgb(237, 9, 245));
+   background:pink;
    height: 400px;
    width:320px;
    text-align: center; 
@@ -31,6 +34,7 @@ body{
     width: 75px;
     border-radius: 10px;
     height: 61px;
+    box-shadow: 5px 5px 5px rgb(194, 183, 183);
     
 }
 .style:hover{
