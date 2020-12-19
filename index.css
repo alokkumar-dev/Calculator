@@ -8,8 +8,8 @@ body{
 
 .div-calculator{
    background:pink;
-   height: 405px;
-   width:320px;
+   height: 435px;
+   width:325px;
    text-align: center; 
    margin-left: 2px;
    margin-top: 80px;
@@ -24,17 +24,18 @@ body{
     text-align: right;
     font-size: 25px;
     background-color: rgb(201, 192, 192);
+    box-shadow: 2px 2px 2px rgb(3, 3, 3);
 }
 #clear{
     width: 151px;
 }
 .style{
-    font-size: 25px;
+    font-size: 26px;
     padding: 10px;
     width: 75px;
     border-radius: 10px;
-    height: 61px;
-    box-shadow: 5px 5px 5px rgb(194, 183, 183);
+    height: 67px;
+    box-shadow: 2px 2px 2px rgb(3, 3, 3);
     
 }
 .style:hover{
