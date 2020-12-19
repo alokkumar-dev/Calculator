@@ -18,7 +18,7 @@ body{
 }
 #display-answer{
     margin: 4px;
-    width: 300px;
+    width: 302px;
     height: 62px;
     border-radius: 5px;
     text-align: right;
@@ -26,8 +26,8 @@ body{
     background-color: rgb(201, 192, 192);
     box-shadow: 2px 2px 2px rgb(3, 3, 3);
 }
-#clear{
-    width: 151px;
+#clear-btn{
+    width: 150px;
 }
 .style{
     font-size: 26px;
