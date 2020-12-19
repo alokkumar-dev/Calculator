@@ -24,7 +24,7 @@ body{
     text-align: right;
     font-size: 25px;
     background-color: rgb(201, 192, 192);
-    box-shadow: 2px 2px 2px rgb(3, 3, 3);
+    box-shadow: 2px 2px 2px black;
 }
 #clear-btn{
     width: 150px;
@@ -35,7 +35,7 @@ body{
     width: 75px;
     border-radius: 10px;
     height: 67px;
-    box-shadow: 2px 2px 2px rgb(3, 3, 3);
+    box-shadow: 2px 2px 2px black;
     
 }
 .style:hover{
