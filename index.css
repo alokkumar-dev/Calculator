@@ -38,7 +38,7 @@ body{
     box-shadow: 2px 2px 2px black;
     
 }
-.style:hover{
+.btn-style:hover{
     background-color: rgb(241, 14, 14);
 }
 
